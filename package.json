@@ -1,6 +1,6 @@
 {
-  "name": "jshint-teamcity",
-  "version": "1.0.5",
+  "name": "jshint-teamcity-ext",
+  "version": "0.1.0",
   "description": "JSHint TeamCity Reporter which group by files using TeamCity Test Suite",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hongymagic/jshint-teamcity.git"
+    "url": "https://github.com/elrick85/jshint-teamcity.git"
   },
   "keywords": [
     "teamcity",
@@ -19,13 +19,13 @@
     "gulpplugin",
     "gruntplugin"
   ],
-  "author": "David Hong <davidhong.code@gmail.com>",
+  "author": "Zaur Ismailov",
   "license": "MIT",
   "bugs": {
-    "mail": "davidhong.code@gmail.com",
-    "url": "https://github.com/hongymagic/jshint-teamcity/issues"
+    "mail": "zaur.ismailov85@gmail.com",
+    "url": "https://github.com/elrick85/jshint-teamcity/issues"
   },
-  "homepage": "https://github.com/hongymagic/jshint-teamcity",
+  "homepage": "https://github.com/elrick85/jshint-teamcity",
   "devDependencies": {
     "jshint": "~2.4.3",
     "mocha": "~1.17.1",
